@@ -1,0 +1,306 @@
+[
+  {
+    "nome": "React",
+    "descricao": "Uma biblioteca JavaScript declarativa, eficiente e flexível para criar interfaces de usuário.",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "UI",
+      "declarativo"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset de JavaScript que adiciona tipagem estática opcional, compilando para JavaScript puro.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "superset",
+      "tipagem estática",
+      "desenvolvimento web"
+    ]
+  },
+  {
+    "nome": "Go",
+    "descricao": "Uma linguagem de programação compilada, concorrente e de código aberto desenvolvida pelo Google.",
+    "data_criacao": "2009",
+    "link": "https://golang.org/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "sistemas",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Uma linguagem de programação de sistemas que se concentra em segurança, desempenho e concorrência.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "segurança de memória"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Uma linguagem de programação moderna e pragmática que roda na JVM e é totalmente interoperável com Java.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "JVM",
+      "desenvolvimento android",
+      "multiplataforma"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Uma poderosa linguagem de programação intuitiva desenvolvida pela Apple para criar apps para iOS, macOS, watchOS, e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "Apple",
+      "iOS"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Um ambiente de execução de código JavaScript assíncrono e orientado a eventos no lado do servidor.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "runtime",
+      "backend",
+      "servidor",
+      "assíncrono"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Um framework progressivo para a construção de interfaces de usuário que foca na adaptabilidade e facilidade de integração.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "UI",
+      "progressivo"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Um framework de desenvolvimento frontend completo, mantido pelo Google, para construir aplicações de página única (SPA).",
+    "data_criacao": "2010",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "SPA",
+      "Google"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Uma plataforma para desenvolver, enviar e executar aplicações dentro de contêineres virtualizados.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "containerização",
+      "DevOps",
+      "virtualização",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Um sistema open-source para automatizar a implantação, dimensionamento e gerenciamento de aplicações em contêineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "DevOps",
+      "cloud computing",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Uma ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de infraestrutura de forma declarativa.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "DevOps",
+      "IaC",
+      "infraestrutura",
+      "nuvem"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Um sistema de gerenciamento de banco de dados relacional de código aberto altamente extensível e orientado a objetos.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "open source",
+      "SQL",
+      "confiabilidade"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Um banco de dados NoSQL baseado em documentos, projetado para escalabilidade e desenvolvimento ágil.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Um armazenamento de estrutura de dados em memória, usado como cache, broker de mensagens e banco de dados.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "em memória",
+      "cache",
+      "mensageria"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Uma linguagem de consulta para APIs e um ambiente de execução do lado do servidor para executar essas consultas.",
+    "data_criacao": "2012",
+    "link": "https://graphql.org/",
+    "tags": [
+      "API",
+      "protocolo",
+      "backend",
+      "consulta"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Um framework de React para produção que permite renderização do lado do servidor (SSR) e geração de sites estáticos (SSG).",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "SSR",
+      "React",
+      "desenvolvimento web"
+    ]
+  },
+  {
+    "nome": "NestJS",
+    "descricao": "Um framework progressivo para a construção de aplicações backend escaláveis e eficientes, usando TypeScript e Node.js.",
+    "data_criacao": "2017",
+    "link": "https://nestjs.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "Node.js",
+      "TypeScript",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um compilador que converte componentes declarativos em código JavaScript de alto desempenho no momento da construção.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "compilador",
+      "frontend",
+      "web performance"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Uma plataforma de streaming de eventos distribuída que permite publicar, assinar, armazenar e processar fluxos de registros.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "mensageria",
+      "big data",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Prometheus",
+    "descricao": "Um sistema de monitoramento e alerta open-source robusto e baseado em série temporal, altamente usado em ambientes Kubernetes.",
+    "data_criacao": "2012",
+    "link": "https://prometheus.io/",
+    "tags": [
+      "DevOps",
+      "monitoramento",
+      "alerta",
+      "série temporal"
+    ]
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Um servidor de automação open-source amplamente utilizado para construir, testar e implantar software de forma contínua.",
+    "data_criacao": "2011",
+    "link": "https://www.jenkins.io/",
+    "tags": [
+      "CI/CD",
+      "automação",
+      "DevOps",
+      "servidor"
+    ]
+  },
+  {
+    "nome": "Scrum",
+    "descricao": "Uma estrutura (framework) ágil e iterativa para gerenciar projetos de desenvolvimento de software complexos.",
+    "data_criacao": "1995",
+    "link": "https://www.scrum.org/",
+    "tags": [
+      "metodologia",
+      "agile",
+      "gerenciamento de projetos",
+      "desenvolvimento"
+    ]
+  },
+  {
+    "nome": "Figma",
+    "descricao": "Um editor gráfico vetorial e ferramenta de prototipagem baseado em nuvem, focado em design colaborativo de interfaces.",
+    "data_criacao": "2016",
+    "link": "https://www.figma.com/",
+    "tags": [
+      "design",
+      "prototipagem",
+      "ferramenta",
+      "UI/UX",
+      "colaboração"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Um sistema de controle de versão distribuído, gratuito e de código aberto, projetado para lidar com tudo, desde pequenos a grandes projetos.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "ferramenta",
+      "colaboração",
+      "open source"
+    ]
+  }
+]
